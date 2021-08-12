@@ -17,10 +17,10 @@ Icon Designed by
 
 # Icons
 
-[1](1/cover.png)
+![1](1/cover.png)
 
 
-[2](2/cover.png)
+![2](2/cover.png)
 
 ---
 + [edit](https://github.com/rubyfunc/logo/edit/main/README.md)
