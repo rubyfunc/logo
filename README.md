@@ -1,4 +1,4 @@
-# logo.rubyfunc.com
+# [logo.rubyfunc.com](https://logo.rubyfunc.com)
 
 Font in use <a target="_blank" href="https://www.fontsquirrel.com/fonts/Sling">Sling</a> designed by
 <a target="_blank" href="">STAR Retrieval Systems</a>
