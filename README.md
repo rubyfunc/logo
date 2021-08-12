@@ -15,7 +15,12 @@ Icon Designed by
 ### Background
 #ff4948, #d62130
 
-#
+# Icons
+
+[1](/1/cover.png)
+
+
+[2](/2/cover.png)
 
 ---
 + [edit](https://github.com/rubyfunc/logo/edit/main/README.md)
