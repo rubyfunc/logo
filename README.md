@@ -17,4 +17,11 @@ Icon Designed by
 
 #
 
+---
++ [edit](https://github.com/rubyfunc/logo/edit/main/README.md)
+
+```
+https://github.com/rubyfunc/logo.git
+```
+
 
