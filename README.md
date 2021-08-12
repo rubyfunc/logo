@@ -7,7 +7,13 @@ and licensed under
 Icon Designed by
 <a target="_blank" href="https://thenounproject.com/MarkieAnn">MarkieAnn Packer</a></div></div>
 
-#
+## Color
+
+### Font
+#ff4948, #d62130
+
+### Background
+#ff4948, #d62130
 
 #
 
