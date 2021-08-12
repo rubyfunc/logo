@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Sling
+font link: https://www.fontsquirrel.com/fonts/Sling
+font author: STAR Retrieval Systems
+font author site: 
+
+
+icon designer: MarkieAnn Packer
+icon designer link: /MarkieAnn
+        
+
+fontColor: {"gradient-0":"#d62130","gradient-1":"#ff4948"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#d62130","gradient-1":"#ff4948"}
+
+      
